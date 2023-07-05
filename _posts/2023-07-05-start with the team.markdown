@@ -88,7 +88,7 @@ Considering Conway's Law, it is necessary to align the organization's structure 
 
 The goal is to create a structure that enables seamless communication and collaboration between teams, allowing them to deliver high-quality solutions efficiently. By aligning the team structure with the desired architecture, the organization can overcome communication silos and promote effective cross-functional teamwork.
 
-###Conclusions
+### Conclusions
 
 In conclusion, understanding the dynamics of teams is crucial for organizations delivering digital solutions. The team is the unit and driving force behind solution delivery, and if not structured consciously, it can impede organizational performance.
 
@@ -98,7 +98,7 @@ In the fast-paced world of digital solutions, where agility, collaboration, and 
 
 *This article was originally written in Portuguese by Rodrigo Carvalho Santos and translated into English by ChatGPT.*
 
-###References
+### References
 
 
 1. Skelton, Matthew; Pais, Manuel. *Team Topologies: Organizing Business and Technology Teams for Fast Flow*. Portland, Oregon. IT Revolution, 2019.
