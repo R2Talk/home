@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ready to Talk!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+R2Talk is an organization that promotes connections, discussions and projects that address digital transformation.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Here you will find information and project opportunities, necessary for people and companies in their digital journey.
+
+Check our projects at [github.com/r2talk](https://github.com/r2talk)
 
 
-[jekyll-organization]: https://github.com/jekyll
