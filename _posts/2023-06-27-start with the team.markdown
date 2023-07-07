@@ -2,7 +2,7 @@
 layout: post
 title: "Start with the team!"
 author: "Rodrigo Carvalho Santos"
-date:   2023-07-05 16:27:39 -0300
+date:   2023-06-27 16:27:39 -0300
 categories: jekyll update
 ---
 
@@ -37,7 +37,7 @@ Considering the following four fundamental types, structuring addresses complexi
 As explained earlier, this team is responsible for one or more processes in the value chain. Ideally, we would have only this type of team, and the others should work to support the work of this team, which directly serves the business.
 
 #### Platform:
-Being the product that enables other products or services, this team manages the platform so that the Stream Aligned team consumes services easily and with the assurance of platform operation and maintenance (version updates, technical monitoring, service SLAs, infrastructure maintenance, etc.).
+Being the platform the product that enables other products or services, this team manages the platform so that the Stream Aligned team consumes services easily and with the assurance of platform operation and maintenance (version updates, technical monitoring, service SLAs, infrastructure maintenance, etc.).
 
 This team should interact with the Stream Aligned team through simple APIs. The success of providing solutions-as-a-service is directly proportional to the reduction of the need for interaction. The platform team's priorities should not only be to maintain the platform but also to ensure that services are consumed correctly and with minimal effort.
 
@@ -86,7 +86,15 @@ Melvin Conway, in his paper "How do Committees Invent?," assessed that any organ
 
 Considering Conway's Law, it is necessary to align the organization's structure with the desired solution architecture. If the teams are not organized effectively, it can hinder communication, collaboration, and the ability to deliver value to the business.
 
-The goal is to create a structure that enables seamless communication and collaboration between teams, allowing them to deliver high-quality solutions efficiently. By aligning the team structure with the desired architecture, the organization can overcome communication silos and promote effective cross-functional teamwork.
+Without proper alignment, the organization's structure will act as a counterforce to the desired architecture. We have examples of architectural projects whose principle lies in isolated services with weak coupling, yet end up implemented with monolithic characteristics as a reflection of team organization and communication lines.
+
+To clarify this point, let's consider an example:
+
+A team structure that includes a technical team of DBAs responsible for centralizing application data projects will most likely result in a monolithic data structure, where Stream Aligned teams will be exposed to the risk of impacting the work of other teams due to dependencies on the data structure.
+
+If each Stream Aligned team possesses the competency for independent application data design without needing to consult the specialized DBA group, they will have a higher chance of successfully following the desired independent architecture.
+
+In this example, the DBA team should be identified with the Platform profile, focusing more on maintaining an updated and optimized infrastructure while leaving the responsibility for application and service data design to the Stream Aligned team.
 
 ### Conclusions
 
