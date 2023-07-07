@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Startup Path."
+title: "The Startup Path"
 author: "Rodrigo Carvalho Santos"
 date:   2019-03-06 16:27:39 -0300
 categories: jekyll update
