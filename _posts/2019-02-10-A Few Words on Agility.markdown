@@ -98,48 +98,6 @@ Regardless of the initiative, the agile approach will always rely on basic princ
 
 By understanding the motivations behind the values of the Agile Manifesto and using a framework with basic work rules, it is possible to organize work in a way that addresses agility and generates more value for individuals and organizations.
 
-===
-In 2001, a group of experts rethought the approach to complex work in response to high project failure rates in software development. The result was the Agile Manifesto, which outlines values and principles for delivering quality software that meets stakeholder expectations.
-
-The manifesto emphasizes the following values:
-
-1. Individuals and interactions over processes and tools.
-2. Working software over comprehensive documentation.
-3. Customer collaboration over contract negotiation.
-4. Responding to change over following a plan.
-
-While initially focused on software, these values have broader implications across various fields. They can be applied to any complex initiative to drive success.
-
-## Exploring the Values of the Agile Manifesto
-
-### 1. Individuals and interactions over processes and tools
-
-The agile approach recognizes that knowledge comes from experience and decisions should be based on this knowledge. It prioritizes the critical role of individuals in evaluating and iterating on solutions, emphasizing collaboration and interaction.
-
-### 2. Working software over comprehensive documentation
-
-Agile values delivering working solutions that provide value and meet or exceed customer expectations. While documentation is important, it is secondary to functional software that can be utilized and evaluated by customers.
-
-### 3. Customer collaboration over contract negotiation
-
-Agile recognizes that the initial understanding of a problem is a hypothesis that must be validated and adapted as more information becomes available. Collaboration with customers is crucial for feedback, enabling adjustments and validating assumptions throughout the project.
-
-### 4. Responding to change over following a plan
-
-Agile embraces adaptability as a key differentiator. It emphasizes iterative progress, working with hypotheses, listening to customers, and making decisions based on evolving knowledge. This flexibility allows agile teams to respond effectively to changes and evolving requirements.
-
-## Final Considerations
-
-Regardless of the initiative, agility relies on fundamental principles:
-
-- A clear vision of the work, with detailed plans for the immediate future and high-level plans for the long term.
-- Small, multidisciplinary, self-managed teams.
-- Iterative work focused on delivering potentially usable increments of value.
-- Continuous feedback from customers, driving learning and adaptation.
-- Adaptability, the willingness to make necessary changes to maintain the expected value of deliverables.
-
-By understanding the motivations behind the Agile Manifesto and applying a framework with disciplined and flexible work practices, organizations can embrace agility and generate greater value for individuals and the organization as a whole.
-
 
 *This article was originally written in Portuguese by Rodrigo Carvalho Santos and translated into English by ChatGPT.*
 
