@@ -6,7 +6,7 @@ permalink: /about/
 
 Ready to Talk!
 
-R2Talk is an organization that promotes connections, discussions and projects that address digital universe.
+R2Talk is an organization that promotes connections, information and projects that address digital universe.
 
 Be part of it! Check our articles! Join our projects!
 
