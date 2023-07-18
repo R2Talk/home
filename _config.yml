@@ -28,7 +28,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #github_username:  r2talk
 
 # Build settings
-theme: jekyll-theme-dinky
+theme: minima
 plugins:
   - jekyll-feed
 
