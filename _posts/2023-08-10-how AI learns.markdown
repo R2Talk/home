@@ -2,7 +2,7 @@
 layout: post
 title: "How AI Learns?"
 author: "Rodrigo Carvalho Santos"
-date:   2023-08-10 16:27:39 -0300
+date:   2023-08-10 16:00:00 -0300
 categories: jekyll update
 ---
 
